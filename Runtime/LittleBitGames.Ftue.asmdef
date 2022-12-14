@@ -1,0 +1,33 @@
+{
+    "name": "LittleBitGames.Ftue",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b9ebef24af35d544395cc01c7838e792",
+        "GUID:8ef573751495a4f88822a98a88954a0b",
+        "GUID:4bb57fb9ecd9945d38999896ffdcd1b6",
+        "GUID:ed185de268e0c44e68fa9c698dd2796a",
+        "GUID:863496094ab70564099949b05a8cbbb0",
+        "GUID:2441765aaf6cb9c4598082c37fa37d81",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:b4f7b59e66f3b42cf95c5358d565c84f",
+        "GUID:d0797a05b39b1ed4ea80d84367dc7690",
+        "GUID:6e49b3fad1413f245893e61f5ae23c5b",
+        "GUID:e67776fa7f14dd743806aa451dc5a111",
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f88fb04354076c646a4107a491394033",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:e6f58018581a63740851da0e5d79ae80",
+        "GUID:69246b39d9114134eb297d386a5dfe4e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+{
+  "name": "com.littlebitgames.ftue",
+  "version": "1.0.0",
+  "displayName": "FTUE",
+  "description": "FTUE package is for quickly tutorials integration",
+  "unity": "2021.3",
+  "unityRelease": "1f1",
+  "dependencies": {
+    "com.littlebitgames.datastoragemodule": "~1.0.0",
+    "com.littlebitgames.raycastsmodule": "~1.0.0",
+    "com.littlebitgames.coremodule": "~1.0.0",
+    "com.littlebitgames.savemodule": "~1.0.0",
+    "com.littlebitgames.quests": "~0.4.5",
+    "com.coffee.softmask-for-ugui": "~1.0.2",
+    "com.dbrizov.naughtyattributes": "~2.1.4",
+    "com.littlebitgames.warehouse" : "~1.1.3",
+    "com.littlebitgames.descriptioncomponentsmodule": "~1.8.1",
+    "com.littlebitgames.sequencelogic": "~1.1.0",
+    "com.littlebitgames.uimodule": "~1.3.2",
+    "com.littlebitgames.pool": "~1.0.4",
+    "com.littlebitgames.cameramodule" : "~1.2.8",
+    "com.littlebitgames.analytics" : "~2.1.5",
+    "com.littlebitgames.environmentcore" : "~2.0.2"
+  }
+}
